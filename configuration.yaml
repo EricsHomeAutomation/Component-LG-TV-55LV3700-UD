@@ -1,0 +1,4 @@
+button:
+  - platform: erics_tv
+    name: "Livingroom TV"
+    ip_address: "10.0.0.24"
